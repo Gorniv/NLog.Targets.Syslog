@@ -153,7 +153,7 @@ namespace NLog.Targets
 #if NET45
              using (var udp = new UdpClient(ipAddress, Port))
 #else
-                    using (var udp = new UdpClient(new IPEndPoint(logServerIp, Port)))
+                    using (var udp = new UdpClient())
 #endif
                     {
 #if NET45
