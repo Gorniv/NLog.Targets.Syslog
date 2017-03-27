@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "NETStandard.Library": "1.6.0",
-    "NLog": "4.4.0-betaV15",
+    "NLog": "5.0.0-beta04",
     "System.Net.Security": "4.0.0"
   }
 }

@@ -1,7 +1,17 @@
 Syslog Target for NLog
 ======================
 
-**NLog Syslog** is a custom target for [NLog](http://nlog-project.org/) version 4.2.2 allowing you to send logging messages to a UNIX-style Syslog server.
+**NLog Syslog** is a custom target for [NLog](http://nlog-project.org/) version 4.4.0  or 5.0.0-beta04  allowing you to send logging messages to a UNIX-style Syslog server.
+
+[nuget](https://www.myget.org/feed/gorniv/package/nuget/NLog.Targets.Syslog.Core)
+
+Your NuGet V3 feed URL (Visual Studio 2015+)
+
+`https://www.myget.org/F/gorniv/api/v3/index.json`
+
+Your NuGet V2 feed URL (Visual Studio 2012+)
+
+`https://www.myget.org/F/gorniv/api/v2`
 
 ## Configuration
 

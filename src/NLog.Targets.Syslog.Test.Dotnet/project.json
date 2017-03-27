@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "1.0.0-*",
 
   "dependencies": {
@@ -7,8 +7,8 @@
       "version": "1.0.0"
     },
     "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
-    "NETStandard.Library": "1.6.0",
-    "NLog": "4.4.0-betaV15",
+    "NETStandard.Library": "1.3.0",
+    "NLog": "5.0.0-beta04",
     "xunit": "2.2.0-beta2-build3300",
     "dotnet-test-xunit": "2.2.0-preview2-build1029",
     "Microsoft.Extensions.Logging": "1.0.0",
